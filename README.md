@@ -22,7 +22,7 @@ Hello there!
 
 
 
-<img src="https://github.com/sajal-web/Quiz-app/tree/master/demo/demo.gif" width="300" height="500">
+![](https://github.com/sajal-web/Quiz-app/blob/master/demo/demo.gif )
 ## Built with
 
 - JAVA [Language  for development](https://docs.oracle.com/en/java/)
